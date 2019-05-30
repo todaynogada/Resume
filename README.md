@@ -49,8 +49,8 @@
      https://play.google.com/store/apps/details?id=kr.co.boodi
   <img src="https://user-images.githubusercontent.com/35400023/58617563-671f0880-82fb-11e9-8e79-92e5cd836473.PNG"></img>
 </li>
-<li> ipzza 쇼핑몰 jsp 프론트 개발 및 하이브리드앱 개발 
-<img src=" https://user-images.githubusercontent.com/35400023/58617824-1d82ed80-82fc-11e9-8509-435f41a8d2d3.PNG" width: 30%;></img>
+<li> ipzza 쇼핑몰 jsp 프론트 개발 및 하이브리드앱 개발   
+<img src=" https://user-images.githubusercontent.com/35400023/58617824-1d82ed80-82fc-11e9-8509-435f41a8d2d3.PNG" width: "30%";></img>
 <img src="https://user-images.githubusercontent.com/35400023/58617830-207dde00-82fc-11e9-8b84-822568345c0a.PNG"  width: 30%;></img>
 <img src="https://user-images.githubusercontent.com/35400023/58617843-24116500-82fc-11e9-8cc2-8851b1f620bb.PNG"  width: 30%;></img>
 <img src="https://user-images.githubusercontent.com/35400023/58617850-27a4ec00-82fc-11e9-8dfa-424bab9775f2.PNG"  width: 30%;></img>
