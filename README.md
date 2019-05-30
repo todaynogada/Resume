@@ -50,7 +50,7 @@
   <img src="https://user-images.githubusercontent.com/35400023/58617563-671f0880-82fb-11e9-8e79-92e5cd836473.PNG"></img>
 </li>
 <li> ipzza 쇼핑몰 jsp 프론트 개발 및 하이브리드앱 개발 
- <img src=" https://user-images.githubusercontent.com/35400023/58617714-d39a0780-82fb-11e9-995b-ae2872565964.PNG"></img>
+ <img src=" https://user-images.githubusercontent.com/35400023/58617714-d39a0780-82fb-11e9-995b-ae2872565964.PNG" width="90%"></img>
 </li>
  
  
