@@ -47,8 +47,11 @@
 <li> 영국향 서모스탯 초기개발단계 안드로이드 레이아웃 작업 후 인수인계[IOT개발관련]</li>
 <li> Boodi 상품사진이용 색상별 인터렉션 심리 어플리케이션 (사진 촬영을 하여 색깔에 따라 sqlite를 이용해 상황에 맞게 랜덤질문을 보여주는 방식)
      https://play.google.com/store/apps/details?id=kr.co.boodi
+  <img src="https://user-images.githubusercontent.com/35400023/58617563-671f0880-82fb-11e9-8e79-92e5cd836473.PNG"></img>
 </li>
-<li> ipzza 쇼핑몰 jsp 프론트 개발 및 하이브리드앱 개발 </li>
+<li> ipzza 쇼핑몰 jsp 프론트 개발 및 하이브리드앱 개발 
+ https://user-images.githubusercontent.com/35400023/58617653-afd6c180-82fb-11e9-84a2-f20d1d7e7708.PNG
+</li>
  
  
 </ul>
