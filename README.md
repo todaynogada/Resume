@@ -62,3 +62,12 @@
 <ul>
 <li>Android/C/JAVA 기초교육후 안드로이드 앱개발 실무교육</li>
 </ul>
+
+<p><strong>외주</strong></p>
+<ul>
+<li>  스카이베이 유지보수
+      http://www.gtskybay.com/web/main/
+</li>
+
+</ul>
+ 
