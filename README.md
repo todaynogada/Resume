@@ -71,4 +71,16 @@
 </li>
 
 </ul>
+<ul>
+<li>Android/C/JAVA 기초교육후 안드로이드 앱개발 실무교육</li>
+</ul>
+
+<p><strong>개인포트폴리오</strong></p>
+<ul>
+<li>  그누보드를 활용한 게시판푸쉬어플
+     https://play.google.com/store/apps/details?id=todaynogada.com.tdn
+</li>
+
+</ul>
+ 
  
