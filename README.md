@@ -75,12 +75,22 @@
 <li>Android/C/JAVA 기초교육후 안드로이드 앱개발 실무교육</li>
 </ul>
 
-<p><strong>개인포트폴리오</strong></p>
+<p><strong>기타</strong></p>
 <ul>
 <li>  그누보드를 활용한 게시판푸쉬어플
      https://play.google.com/store/apps/details?id=todaynogada.com.tdn
 </li>
-
+  <li>  목재 자동 견적 프로그램
+     http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉&wood_type=1
+</li>
+   <li>  jquery 및 반응형 유지보수 수정
+     http://fmfmfmfm.cafe24.com/1_1.php?device=pc
+</li>
+ 
+ 
 </ul>
+</ul>
+ 
+ 
  
  
