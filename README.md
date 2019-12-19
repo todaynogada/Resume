@@ -56,7 +56,7 @@
  
 </ul>
 
-<p><strong>외주</strong></p>
+<p><strong>기타</strong></p>
 <ul>
 <li>  스카이베이 유지보수 & MwMobile 안드로이드 cctv 네이티브개발 프론트단 유지보수
       http://www.gtskybay.com/web/main/
@@ -64,27 +64,31 @@
 </li>
 
 </ul>
-<p><strong>기타</strong></p>
+
 <ul>
+  <li>   - DwMobile 안드로이드 cctv 네이티브개발 유지보수
+https://play.google.com/store/apps/detailsid=mobile.android.dw.cc.tv.dwmobileandroid.lite
+</li>
+  
 <li>  그누보드를 활용한 게시판푸쉬어플
      https://play.google.com/store/apps/details?id=todaynogada.com.tdn
 </li>
-  <li>  목재 자동 견적 프로그램
-     http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉&wood_type=1&
+  <li>  - 목재 자동 견적 프로그램
+http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉&wood_type=1&
 </li>
-<li>  jquery 및 반응형 유지보수 수정
-     http://fmfmfmfm.cafe24.com/1_1.php?device=pc
+<li>  
+  -  헬스홈페이지 개발- http://fmfmfmfm.cafe24.com/1_1.php?device=pc
 </li>
-<li>  제품 자동견적프로그램 개발
-     http://dlikorea.com/?device=pc
+<li> -  자동 제품 견적 프로그램- http://dlikorea.com/shopinfo/quotation.html
 </li>
- <li>  제품 자동견적프로그램 개발
-     http://dlikorea.com/?device=pc
+ <li>  반응형 홈페이지 개발- http://todaynogada.cafe24.com/work_list/etc/index.html
 </li>
-<li> 제이쿼리 수정및 레이아웃 개발
-       http://todaynogada.cafe24.com/work_list/etc/index.html
+<li> - 메모장 앱 개발- https://play.google.com/store/apps/details?id=com.project.iNoteMobile
 </li>
- 
+ <li>
+  -화랑번역 홈페이지 유지보수
+http://www.globalhwarang.com
+  </li>
 </ul>
 </ul>
  
