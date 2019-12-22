@@ -52,7 +52,11 @@
 <li> ipzza 쇼핑몰 jsp 프론트 개발 및 하이브리드앱 개발   
 <img src="https://user-images.githubusercontent.com/35400023/58620080-2c1fd380-8301-11e9-9bb2-7a23dd5ed418.PNG"></img>
 </li>
- 
+ <li> 아이노트모바일 안드로이드 어플 개발
+<img src="https://user-images.githubusercontent.com/35400023/71323493-3e6c9380-2517-11ea-8d9c-1093f600d244.PNG"></img>
+<img src="https://user-images.githubusercontent.com/35400023/71323502-4c221900-2517-11ea-8698-7e2b618617a2.PNG"></img>
+<img src="https://user-images.githubusercontent.com/35400023/71323505-4d534600-2517-11ea-96c1-b50ba75b901e.PNG"></img>
+</li>
  
 </ul>
 
