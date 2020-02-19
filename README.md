@@ -11,14 +11,9 @@
 <li>GitHub : <a href="https://github.com/todaynogada">https://github.com/todaynogada</a></li>
 </ul>
 
-<h2>
-  <a id="user-content-학력" class="anchor" aria-hidden="true" href="#학력">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-     </svg></a>학력</h2>
-<ul>
-<li>서울 경복고등학교 공업(반도체) 졸업: 2008. 03 ~ 2011. 02</li>
-<li>서울 방송통신대학교 재학중 </li>
-</ul>
+
+ 
+
 
 <h2><a id="user-content-회사-경력" class="anchor" aria-hidden="true" href="#회사-경력"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>회사 경력</h2>
 
