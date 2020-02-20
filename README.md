@@ -85,9 +85,11 @@ http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉
 <li> - 메모장 앱 개발- https://play.google.com/store/apps/details?id=com.project.iNoteMobile
 </li>
  <li>
-  -화랑번역 홈페이지 유지보수
-http://www.globalhwarang.com
-  </li>
+  -화랑번역 홈페이지 유지보수 http://www.globalhwarang.com
+ </li>
+ <li>
+  -사단법인 한국신장장애인울산협회 플래시메뉴 수정 http://www.kidneyus.or.kr/
+ </li>
 </ul>
 </ul>
  
