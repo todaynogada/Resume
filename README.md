@@ -57,16 +57,15 @@
 
 <p><strong>기타</strong></p>
 <ul>
-<li>  스카이베이 유지보수 & MwMobile 안드로이드 cctv 네이티브개발 프론트단 유지보수
+<li>  스카이베이 호텔관리시스템 홈페이지 유지보수 개발 
       http://www.gtskybay.com/web/main/
-  https://play.google.com/store/apps/details?id=mobile.android.dw.cc.tv.dwmobileandroid.lite
 </li>
 
 </ul>
 
 <ul>
-  <li>   - DwMobile 안드로이드 cctv 네이티브개발 유지보수
-https://play.google.com/store/apps/detailsid=mobile.android.dw.cc.tv.dwmobileandroid.lite
+  <li>   - DwMobile 안드로이드 cctv 네이티브개발 유지보수 개발
+https://play.google.com/store/apps/details?id=mobile.android.dw.cc.tv.dwmobileandroid.lite
 </li>
   
 <li>  그누보드를 활용한 게시판푸쉬어플
