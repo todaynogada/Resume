@@ -20,6 +20,7 @@
   핸드폰  010-8072-7500
   카카오톡 ikd7500
   네이트온 mcm918@nate.com   
+  개인 운영 홈페이지 http://todaynogada.cafe24.com/
  </li> 
  
  
