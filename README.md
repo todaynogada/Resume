@@ -95,6 +95,13 @@ http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉
  <img src="https://user-images.githubusercontent.com/35400023/79744231-f6347500-8340-11ea-951f-28693a45cbd4.PNG"/>
  <img src="https://user-images.githubusercontent.com/35400023/79744173-e157e180-8340-11ea-9219-754bb2b4ccaf.PNG"/>
  <img src="https://user-images.githubusercontent.com/35400023/79744177-e2890e80-8340-11ea-935e-9c3fad2ae83a.PNG"/>
+  - 경매장 게시판 웹 스킨 개발 http://asbid.co.kr/bbs/board.php?bo_table=auction
+  <img src="https://user-images.githubusercontent.com/35400023/81696027-5f218f80-949e-11ea-9f96-0daa08e03154.PNG"/>
+  <img src="https://user-images.githubusercontent.com/35400023/81696032-60eb5300-949e-11ea-9217-6d5a18ccf3a0.PNG"/>
+  <img src="https://user-images.githubusercontent.com/35400023/81696037-6183e980-949e-11ea-8fcb-698fb3879783.PNG"/>
+  <img src="https://user-images.githubusercontent.com/35400023/81696041-62b51680-949e-11ea-9688-8529677c1e7a.PNG"/>
+  <img src="https://user-images.githubusercontent.com/35400023/81696046-647eda00-949e-11ea-8590-b9a67cffcd34.PNG"/>
+  <img src="https://user-images.githubusercontent.com/35400023/81696052-65b00700-949e-11ea-97a0-f8748a5b4efe.PNG"/>
  
 </ul>
 </ul>
