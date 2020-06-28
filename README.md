@@ -115,6 +115,7 @@ http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉
   -사단법인 한국신장장애인울산협회 플래시메뉴 수정 http://www.kidneyus.or.kr/
  <img src="https://user-images.githubusercontent.com/35400023/74901775-3c279800-53e7-11ea-9330-fea1cdc96414.PNG"/>
  </li>
+ <li>
  - 서프라이스 쇼핑몰 모바일 + 안드로이드 전반적으로 업무 개발 기능+디자인
  <img src="https://user-images.githubusercontent.com/35400023/79744231-f6347500-8340-11ea-951f-28693a45cbd4.PNG"/>
  <img src="https://user-images.githubusercontent.com/35400023/79744173-e157e180-8340-11ea-9219-754bb2b4ccaf.PNG"/>
@@ -126,7 +127,13 @@ http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉
   <img src="https://user-images.githubusercontent.com/35400023/81696041-62b51680-949e-11ea-9688-8529677c1e7a.PNG"/>
   <img src="https://user-images.githubusercontent.com/35400023/81696046-647eda00-949e-11ea-8590-b9a67cffcd34.PNG"/>
   <img src="https://user-images.githubusercontent.com/35400023/81696052-65b00700-949e-11ea-97a0-f8748a5b4efe.PNG"/>
+ </li>
+ <li>
+ -여행고수 php웹, 안드로이드 어플
+ https://www.tourgosu.com/
+ https://play.google.com/store/apps/details?id=com.tourgosu
  
+ </li>
 </ul>
 </ul>
  
