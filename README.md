@@ -20,7 +20,7 @@
   핸드폰  010-8072-7500
   카카오톡 ikd7500
   네이트온 mcm918@nate.com   
-  개인 운영 홈페이지 http://todaynogada.cafe24.com/
+  개인 운영 홈페이지 https://aosmobile.co.kr/
  </li> 
  
  
@@ -128,13 +128,17 @@ http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉
   <img src="https://user-images.githubusercontent.com/35400023/81696046-647eda00-949e-11ea-8590-b9a67cffcd34.PNG"/>
  </li>
  <li>
- -여행고수 php웹, 안드로이드 어플
+ -여행고수 php웹, 안드로이드 어플 <br>
  https://www.tourgosu.com/
  <br>
  https://play.google.com/store/apps/details?id=com.tourgosu
  
  </li>
-</ul>
+ <li>
+ -서프라이즈 cgi몰 쇼핑몰 유지보수<br>
+ http://surprice.co.kr/
+ </li>
+
 </ul>
  
  
