@@ -126,7 +126,6 @@ http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉
   <img src="https://user-images.githubusercontent.com/35400023/81696037-6183e980-949e-11ea-8fcb-698fb3879783.PNG"/>
   <img src="https://user-images.githubusercontent.com/35400023/81696041-62b51680-949e-11ea-9688-8529677c1e7a.PNG"/>
   <img src="https://user-images.githubusercontent.com/35400023/81696046-647eda00-949e-11ea-8590-b9a67cffcd34.PNG"/>
-  <img src="https://user-images.githubusercontent.com/35400023/81696052-65b00700-949e-11ea-97a0-f8748a5b4efe.PNG"/>
  </li>
  <li>
  -여행고수 php웹, 안드로이드 어플
