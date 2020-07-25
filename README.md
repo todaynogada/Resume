@@ -9,30 +9,25 @@
 <li>군필여부 : 병장 만기 재대</li>
 <li>Email : <a href="mailto:chanhyuck1021@naver.com">todaynogada@gmail.com</a></li>
 <li>GitHub : <a href="https://github.com/todaynogada">https://github.com/todaynogada</a></li>
- <li>
 
+===== 안녕하세요. 에오스모바일 개인사업자 프리랜서입니다.
+===== 서울 면목동 거주하고 미팅은 서울에서만 가능합니다.
+===== php jsp android html jquery 반응형 퍼블리싱까지 개발 가능합니다.
+===== 세금계산서는 필요시 끊어드립니다.
+===== 업체명 : 에오스모바일(aosmobile) 대표자 : 김승연
 
-  
-  php jsp android(하이브리드앱,네이티브앱,iot사물인터넷(패킷등을 이용한)  html jquery css(부트스트랩등)반응형 퍼블리싱까지 개발 가능합니다.감사합니다.
-  세금계산서는 필요시 끊어드립니다.
-  업체명 : 에오스모바일(aosmobile)
-  대표자 : 김승연* 연락처  
-  핸드폰  010-8072-7500
-  카카오톡 ikd7500
-  네이트온 mcm918@nate.com   
-  개인 운영 홈페이지 https://aosmobile.co.kr/
- </li> 
- 
- 
- 
- ======안녕하세요. 에오스모바일 개인사업자 프리랜서입니다.서울 면목동 거주하고 미팅은 서울에서만 가능합니다.php jsp android html jquery 반응형 퍼블리싱까지 개발 가능합니다.감사합니다.세금계산서는 필요시 끊어드립니다.업체명 : 에오스모바일(aosmobile)대표자 : 김승연* 연락처  핸드폰  010-8072-7500카카오톡 ikd7500네이트온 mcm918@nate.com  
 <li>  
 이름 : 김승연
  HP : 010-8072-7500
+ 카카오톡 ikd7500@naver.com
+ 네이트온 mcm918@nate.com  
+ 업체명 : 에오스모바일(aosmobile)
+ 대표자 : 김승연* 연락처  
  Email : todaynogada@gmail.com
  거주지 : 서울 면목동
  경력 : 웹2년 안드로이드2년 총 4 년차
  사용 가능 기술 : html5 css 부트스트랩 반응형모바일 java jsp android php (그누보드,워드프레스 등 외 기타) 외 rx자바 rx코틀린 iot개발,블루투스 개발
+ 개인 운영 홈페이지 https://aosmobile.co.kr/
 </li>  
 </ul>
 
