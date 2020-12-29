@@ -9,7 +9,7 @@
 <li>군필여부 : 병장 만기 재대</li>
 <li>Email : <a href="mailto:chanhyuck1021@naver.com">todaynogada@gmail.com</a></li>
 <li>GitHub : <a href="https://github.com/todaynogada">https://github.com/todaynogada</a></li>
-
+<li>개인 운영 홈페이지 : <a href="https://aosmobile.co.kr">에오스모바일</a></li>
 ===== 안녕하세요. 에오스모바일 개인사업자 프리랜서입니다.
 ===== 서울 면목동 거주하고 미팅은 서울에서만 가능합니다.
 ===== php jsp android html jquery 반응형 퍼블리싱까지 개발 가능합니다.
