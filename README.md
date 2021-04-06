@@ -6,7 +6,6 @@
 
 <ul>
 <li>이름 : 김승연</li>
-<li>군필여부 : 병장 만기 재대</li>
 <li>Email : <a href="mailto:chanhyuck1021@naver.com">todaynogada@gmail.com</a></li>
 <li>GitHub : <a href="https://github.com/todaynogada">https://github.com/todaynogada</a></li>
 <li>개인 운영 홈페이지 : <a href="https://aosmobile.co.kr">에오스모바일</a></li>
