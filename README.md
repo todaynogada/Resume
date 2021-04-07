@@ -145,7 +145,7 @@ http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉
  - 여행고수
  https://www.tourgosu.com
  
-  <img src="https://user-images.githubusercontent.com/35400023/113853511-b4fad680-97d8-11eb-831d-c3d6b1e781bf.png"/>
+  <img src="https://user-images.githubusercontent.com/35400023/113854015-55e99180-97d9-11eb-87d1-1b4612246059.png"/>
 
  </li>
  
