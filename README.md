@@ -148,7 +148,13 @@ http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉
   <img src="https://user-images.githubusercontent.com/35400023/113854015-55e99180-97d9-11eb-87d1-1b4612246059.png"/>
 
  </li>
+    <li>
+ - 빨간약
+http://reddrug.co.kr/html/main/main.php
  
+ 
+
+ </li>
 </ul>
  
  
