@@ -151,9 +151,10 @@ http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉
     <li>
  - 빨간약
 http://reddrug.co.kr/html/main/main.php
- 
- 
-
+ </li>
+ <li>
+  채팅개발진행중 -> https://aosmobile.co.kr -> 테스트가능
+    영상개발진행중 -> https://aosmobile.co.kr -> 테스트가능
  </li>
 </ul>
  
