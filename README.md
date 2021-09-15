@@ -160,10 +160,6 @@ http://reddrug.co.kr/html/main/main.php
  <li>
  red5pro 방송플랫폼 개발 (web-rtc) https://kyma.world/
  </li>
-  <li>
- red5pro 방송플랫폼 개발 (web-rtc) https://kyma.world/
- </li>
- 
    <li>
  카페24 앱스토어 애드온 인스타그램 연동 개발 
     홈페이지 - https://instyletag.com/gate
