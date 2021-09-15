@@ -19,7 +19,7 @@
 이름 : 김승연
  HP : 010-8072-7500
  대표번호 : 1544-3615
- 카카오톡 ikd7500@naver.com
+ 카카오톡 todaynogada@gmail.com
  네이트온 mcm918@nate.com  
  업체명 : 에오스모바일(aosmobile)
  대표자 : 김승연
