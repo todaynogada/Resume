@@ -168,13 +168,13 @@ http://reddrug.co.kr/html/main/main.php
     <li>
  국방부 프로젝트 참여 jsp 스프링 개발
      http://sub.ubstory.co.kr/
- </li>
-     <li>
+ </li>     
+ <li>
  콘파스 jsp 스프링개발 (개발은 일부만 했으며 서버만 담당)
  https://conpas.co.kr/gate.do
  </li>
  
-    <li>
+<li>
  옴니스 개발 프론트 참여 android + ios 공동 기능 추가 개발
  https://play.google.com/store/apps/details?id=sky.onispiano
  </li>
