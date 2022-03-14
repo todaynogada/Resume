@@ -178,10 +178,6 @@ http://reddrug.co.kr/html/main/main.php
  옴니스 개발 프론트 참여 android + ios 공동 기능 추가 개발
  https://play.google.com/store/apps/details?id=sky.onispiano
  </li>
-<li>
- 옴니스 개발 프론트 참여 android + ios 공동 기능 추가 개발
- https://play.google.com/store/apps/details?id=sky.onispiano
- </li>
 </ul>
  
  
