@@ -178,6 +178,13 @@ http://reddrug.co.kr/html/main/main.php
  옴니스 개발 프론트 참여 android + ios 공동 기능 추가 개발
  https://play.google.com/store/apps/details?id=sky.onispiano
  </li>
+ 
+ <li>
+ [대기업] 대유위니아 대유톡톡 개발참여 (2개월마다 대유위니아 전직원이 보는 웹진형태 홈페이지 개발 및 유지보수)
+http://www.dayouandu.com/202203_web/
+ </li>
+</ul>
+
 </ul>
  
  
