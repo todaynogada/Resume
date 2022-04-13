@@ -5,30 +5,7 @@
 
 
 <ul>
-<li>이름 : 김승연</li>
-<li>Email : <a href="mailto:chanhyuck1021@naver.com">todaynogada@gmail.com</a></li>
-<li>GitHub : <a href="https://github.com/todaynogada">https://github.com/todaynogada</a></li>
-<li>개인 운영 홈페이지 : <a href="https://aosmobile.co.kr">에오스모바일</a></li>
-===== 안녕하세요. 에오스모바일 개인사업자 프리랜서입니다.
-===== 서울 면목동 거주하고 미팅은 서울에서만 가능합니다.
-===== php jsp android html jquery 반응형 퍼블리싱까지 개발 가능합니다.
-===== 세금계산서는 필요시 끊어드립니다.
-===== 업체명 : 에오스모바일(aosmobile) 대표자 : 김승연
-
-<li>  
-이름 : 김승연
- HP : 010-8072-7500
- 대표번호 : 1544-3615
- 카카오톡 todaynogada@gmail.com
- 네이트온 mcm918@nate.com  
- 업체명 : 에오스모바일(aosmobile)
- 대표자 : 김승연
- Email : todaynogada@gmail.com
- 거주지 : 서울 면목동
- 경력 : 웹3년 안드로이드2년 총 5 년차
- 사용 가능 기술 : html5 css 부트스트랩 반응형모바일 java jsp android php (그누보드,워드프레스 등 외 기타) 외 rx자바 rx코틀린 iot개발,블루투스 개발
- 개인 운영 홈페이지 https://aosmobile.co.kr/
-</li>  
+==============================================================================안녕하세요. 에오스모바일 개인업체입니다. 성심성의껏 책임지고 도와드리겠습니다.==============================================================================업체명 : 에오스모바일(aosmobile)대표자 : 김승연연락처 : 010-8260-8267카카오톡 : https://pf.kakao.com/_Kmxfxds네이트온 : todaynogada@nate.com텔레그램 : https://t.me/todaynogada이메일 : todaynogada@gmail.com모바일팩스 : 0504-0808-9174운영 사이트 : aosmobile.co.kr세금계산서 발행여부 : 가능미팅여부 : 가능개발이력 : github : https://github.com/todaynogada/Resume/blob/master/README.md==============================================================================기술이력 개발 • 퍼블리싱 • 유지보수 • 고도화작업 • 상주 • 재택언어 : ASP / PHP / JSP / NODE / ANDROID / IPHONE / VUEJS / JUQERY / JAVASCRIPT / TYPESCRIPT / REACT / IONIC / FLUTTER / ANGULAR / ARDUINO / RaspberryPi / KIOSK / IOT퍼블리싱 : bootstrap4 / bootstrap5 / css / sass / 반응형 / 비반응형 / 이벤트페이지 / 인트로페이지솔루션 : cafe24 / godoMall(+pro) / imweb / cgimall / gnuboard / zeoboard /데이터베이스 : mssql / oracle / mysql / postgresql / 쿼리최적화 및 속도개선영상솔루션 : red5pro / wowza / webrtc / hls / rtmp채팅솔루션 : express / nestjs그외 : Window / linux / Ubuntu / AWS / SSL / 물리서버 / 서버세팅 등 유지보수==============================================================================
 </ul>
 
 
