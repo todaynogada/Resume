@@ -159,7 +159,7 @@ http://reddrug.co.kr/html/main/main.php
  </li>     
  <li>
  콘파스 jsp 스프링개발 (개발은 일부만 했으며 서버만 담당)
- https://conpas.co.kr/gate.do
+ https://conpas.co.kr/
  </li>
  
 <li>
