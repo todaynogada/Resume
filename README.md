@@ -16,7 +16,17 @@
  
 기술이력 
 ==============================================================================
-개발 • 퍼블리싱 • 유지보수 • 고도화작업 • 상주 • 재택언어 : ASP / PHP / JSP / NODE / ANDROID / IPHONE / VUEJS / JUQERY / JAVASCRIPT / TYPESCRIPT / REACT / IONIC / FLUTTER / ANGULAR / ARDUINO / RaspberryPi / KIOSK / IOT퍼블리싱 : bootstrap4 / bootstrap5 / css / sass / 반응형 / 비반응형 / 이벤트페이지 / 인트로페이지솔루션 : cafe24 / godoMall(+pro) / imweb / cgimall / gnuboard / zeoboard /데이터베이스 : mssql / oracle / mysql / postgresql / 쿼리최적화 및 속도개선영상솔루션 : red5pro / wowza / webrtc / hls / rtmp채팅솔루션 : express / nestjs그외 : Window / linux / Ubuntu / AWS / SSL / 물리서버 / 서버세팅 등 유지보수==============================================================================
+개발 • 퍼블리싱 • 유지보수 • 고도화작업 • 상주 • 재택<br>
+언어 : <br>
+ASP / PHP / JSP / NODE / ANDROID / IPHONE / VUEJS / JUQERY / JAVASCRIPT / <br>
+TYPESCRIPT / REACT / IONIC / FLUTTER / ANGULAR / ARDUINO / RaspberryPi / KIOSK / IOT<br>
+퍼블리싱 : bootstrap4 / bootstrap5 / css / sass / 반응형 / 비반응형 / 이벤트페이지 / 인트로페이지<br>
+솔루션 : cafe24 / godoMall(+pro) / imweb / cgimall / gnuboard / zeoboard /<br>
+데이터베이스 : mssql / oracle / mysql / postgresql / 쿼리최적화 및 속도개선영상<br>
+ 솔루션 : red5pro / wowza / webrtc / hls / rtmp<br>
+ 채팅솔루션 : express / nestjs<br>
+ 그외 : Window / linux / Ubuntu / AWS / SSL / 물리서버 / 서버세팅 등 유지보수<br>
+ ==============================================================================
 </ul>
 
 
