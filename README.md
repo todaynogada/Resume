@@ -68,11 +68,15 @@
 </ul>
 <img width="100%" src="https://user-images.githubusercontent.com/35400023/171013906-70f31b12-dc29-423c-ade8-e2ff2f16a6f4.PNG"></img>
 
-<li> 경동나비엔 보일러 한국향->중국향 컨버팅작업 및 로컬라이징작업, 패킷데이터 수정
-     https://play.google.com/store/apps/details?id=com.kd.SmartTok
-  <img src="https://user-images.githubusercontent.com/35400023/58617518-46ef4980-82fb-11e9-9a71-a9bb3037c9e6.PNG"></img>
-  <img src="https://user-images.githubusercontent.com/35400023/58617528-4c4c9400-82fb-11e9-80e6-267dc6ff1ca5.PNG"></img>
-</li>
+<p><strong>경동나비엔 IOT 사물인터넷 보일러 APP 개발</strong></p>
+<ul>
+<li>android native app 개발 </li>
+<li>iot 사물인터넷과 패킷 연동작업 </li>
+</ul>
+<img src="https://user-images.githubusercontent.com/35400023/171014735-7f5f21f5-b3d3-4ce5-aa3c-62cbf08ef1cf.PNG"></img>
+
+
+
 <li> 영국향 서모스탯 초기개발단계 안드로이드 레이아웃 작업 후 인수인계[IOT개발관련]</li>
 <li> Boodi 상품사진이용 색상별 인터렉션 심리 어플리케이션 (사진 촬영을 하여 색깔에 따라 sqlite를 이용해 상황에 맞게 랜덤질문을 보여주는 방식)
      https://play.google.com/store/apps/details?id=kr.co.boodi
