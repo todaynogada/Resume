@@ -136,7 +136,7 @@
 <li>http://surprice.co.kr/</li>
 <li>쿠팡 래퍼런스 상품 검색창 개발</li>
 </ul>
-<img width="100%" height="500px" src="https://user-images.githubusercontent.com/35400023/171039747-7792abd9-02d5-4863-99fe-a507502656c3.png"></img>
+<img width="350px" height="500px" src="https://user-images.githubusercontent.com/35400023/171039747-7792abd9-02d5-4863-99fe-a507502656c3.png"></img>
 
 <p><strong>여행고수</strong></p>
 <ul>
