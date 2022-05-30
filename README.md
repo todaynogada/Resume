@@ -149,59 +149,75 @@
 
 
 
-
-
- <li>
- - 성해(성형을해석하다)
- - 라라벨 최신버전 개발
- https://seonghae.co.kr/
- </li>
-  <li>
- - 디자인워크
- https://www.designwork.kr/html/main/main.php
- </li>
-  <li>
- - 여행고수
- https://www.tourgosu.com
- https://play.google.com/store/apps/details?id=com.tourgosu&hl=ko&gl=US
-  <img src="https://user-images.githubusercontent.com/35400023/113854015-55e99180-97d9-11eb-87d1-1b4612246059.png"/>
-
- </li>
-    <li>
- - 빨간약
-http://reddrug.co.kr/html/main/main.php
- </li>
- <li>
-  채팅개발진행중 -> https://aosmobile.co.kr -> 테스트가능
-    영상개발진행중 -> https://aosmobile.co.kr -> 테스트가능
- </li>
- <li>
- red5pro 방송플랫폼 개발 (web-rtc) https://kyma.world/
- </li>
-   <li>
- 카페24 앱스토어 애드온 인스타그램 연동 개발 
-    홈페이지 - https://instyletag.com/gate
-    설치링크 - https://store.cafe24.com/kr/apps/5334
- </li>
-    <li>
- 국방부 프로젝트 참여 jsp 스프링 개발
-     http://sub.ubstory.co.kr/
- </li>     
- <li>
- 콘파스 jsp 스프링개발 (개발은 일부만 했으며 서버만 담당)
- https://conpas.co.kr/
- </li>
- 
-<li>
- 옴니스 개발 프론트 참여 django + android + ios 공동 기능 추가 개발
- https://play.google.com/store/apps/details?id=sky.onispiano
- </li>
- 
- <li>
- [대기업] 대유위니아 대유톡톡 개발참여 (2개월마다 대유위니아 전직원이 보는 웹진형태 홈페이지 개발 및 유지보수)
-http://www.dayouandu.com
- </li>
+<p><strong>성해(성형을해석하다)-성형외과 홈페이지</strong></p>
+<ul>
+<li>php-laravel 개발</li>
 </ul>
 
- 
+
+<p><strong>디자인워크</strong></p>
+<ul>
+<li>https://www.designwork.kr/html/main/main.php</li>
+</ul>
+
+<p><strong>빨간약</strong></p>
+<ul>
+<li>http://reddrug.co.kr/html/main/main.php</li>
+</ul>
+
+<p><strong>kyma</strong></p>
+<ul>
+<li>red5pro 방송플랫폼 개발 (web-rtc)</li>
+<li>https://kyma.world/</li>
+</ul>
+
+<p><strong>instyletag</strong></p>
+<ul>
+<li>카페24 앱스토어 애드온 인스타그램 연동 개발</li>
+<li>https://instyletag.com</li>
+<li>인스타그램 api연동</li>
+<li>카페24 api 연동</li>
+<li>토스페이먼츠 결제 정기결제 개발</li>
+<li>상품 위젯 개발</li>
+</ul>
+
+<p><strong>국방부 프로젝트</strong></p>
+<ul>
+<li>jsp 프론트/백엔드 개발 </li>
+</ul>
+
+<p><strong>conpas</strong></p>
+<ul>
+<li>jsp 프론트/백엔드 개발 </li>
+<li>https://conpas.co.kr/</li>
+</ul>
+
+<p><strong>onispiano</strong></p>
+<ul>
+<li>https://play.google.com/store/apps/details?id=sky.onispiano</li>
+<li>파이썬 장고 서버 개발 및 유지보수 </li>
+<li>아이오닉 프레임워크 하이브리드앱 개발 </li>
+<li>카카오페이/나이스페이 개발 </li>
+<li>예약시스템 개발 </li>
+</ul>
+
+<p><strong>onispiano</strong></p>
+<ul>
+<li>https://play.google.com/store/apps/details?id=sky.onispiano</li>
+<li>파이썬 장고 서버 개발 및 유지보수 </li>
+<li>아이오닉 프레임워크 하이브리드앱 개발 </li>
+<li>카카오페이/나이스페이 개발 </li>
+<li>예약시스템 개발 </li>
+</ul>
+<img width="100%" src="https://user-images.githubusercontent.com/35400023/171042079-2d6be2c4-bdf1-4f1b-bfe7-8acc870973dc.PNG"></img>
+
+<p><strong>대유위니아 - 사내웹진 유지보수 및 개발</strong></p>
+<ul>
+<li>http://www.dayouandu.com</li>
+<li>window server 구축 </li>
+<li>게임개발</li>
+<li>bootstrap5 개발</li>
+<li>설문조사 기능 개발</li>
+</ul>
+<img width="100%" src="https://user-images.githubusercontent.com/35400023/171042258-de5feaa5-bc2d-49dd-92f2-db27495ee08c.PNG"></img>
  
