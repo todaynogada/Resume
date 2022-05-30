@@ -44,7 +44,7 @@
 <div>
  <ul>
   <li>
-  <div style='display:lnline-block'>1</div>
+  <div style="display: inline-block;">1</div>
    <div style='display:lnline-block'>2</div>
    <div style='display:lnline-block'>3</div>
    <div style='display:lnline-block'>4</div>
