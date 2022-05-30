@@ -19,12 +19,12 @@
  
 <b>개발 • 퍼블리싱 • 유지보수 • 고도화작업 • 상주 • 재택</b><br>
  
-※ 사용 가능 언어<br> 
-ASP / PHP / JSP / NODE / ANDROID / IPHONE / VUEJS / JUQERY / JAVASCRIPT / <br>
-TYPESCRIPT / REACT / IONIC / FLUTTER / ANGULAR / ARDUINO / RaspberryPi / KIOSK / IOT<br>
+<p>※ 사용 가능 언어</p>
+<p>ASP / PHP / JSP / NODE / ANDROID / IPHONE / VUEJS / JUQERY / JAVASCRIPT
+ TYPESCRIPT / REACT / IONIC / FLUTTER / ANGULAR / ARDUINO / RaspberryPi / KIOSK / IOT</p>
  
-※ 퍼블리싱 
-bootstrap4 / bootstrap5 / css / sass / 반응형 / 비반응형 / 이벤트페이지 / 인트로페이지<br>
+<p>※ 퍼블리싱</p>
+<p>bootstrap4 / bootstrap5 / css / sass / 반응형 / 비반응형 / 이벤트페이지 / 인트로페이지</p>
 
 ※ 솔루션 
 cafe24 / godoMall(+pro) / imweb / cgimall / gnuboard / zeoboard /<br>
@@ -36,7 +36,7 @@ mssql / oracle / mysql / postgresql / 쿼리최적화 및 속도개선영상<br>
  
 ※ 채팅솔루션 : express / nestjs<br>
  
-※ 기타 : Window / linux / ubuntu / aws /ssl / 물리서버 / 서버세팅 등 유지보수 <br>
+※ 기타 : Window / linux / ubuntu / aws /ssl / 물리서버 / 서버세팅 등 유지보수<br>
  
  ===========================================================================
  </div>
