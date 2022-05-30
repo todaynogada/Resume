@@ -38,9 +38,19 @@
  
 <p>※ 기타 : Window / linux / ubuntu / aws /ssl / 물리서버 / 서버세팅 등 유지보수</p>
  
- ===========================================================================
- </div>
+===========================================================================
+</div>
 
+<div>
+ <ul>
+  <li>1</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+ </ul>
+</div>
+ 
 
 <h2><a id="user-content-회사-경력" class="anchor" aria-hidden="true" href="#회사-경력"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>회사 경력</h2>
 
