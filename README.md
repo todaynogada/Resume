@@ -41,11 +41,11 @@
 ===========================================================================
 </div>
 
-<h2><a id="user-content-경력" class="anchor" aria-hidden="true" href="#경력"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>경력</h2>
+<h2><a id="user-content-경력" class="anchor" aria-hidden="true" href="#경력"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>프로젝트 개발 경력</h2>
 
 <p><strong>홍일광고공사</strong></p>
-<p>작업영역</p>
-<li>국회의원 친반통일당 명함,포스터,공보물,벽보물및 홈페이지제작</li>
+<p>※ 주요 작업 영역</p>
+<p>국회의원 친반통일당 명함,포스터,공보물,벽보물및 홈페이지제작</p>
 
 
 <p><strong>아미나</strong></p>
