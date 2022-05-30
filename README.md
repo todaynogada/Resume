@@ -13,6 +13,7 @@
 세금계산서 발행여부 : 가능<br>
 미팅여부 : 가능<br>
 
+<div>
 기술이력 
 ==============================================================================
 개발 • 퍼블리싱 • 유지보수 • 고도화작업 • 상주 • 재택<br>
@@ -26,7 +27,7 @@ TYPESCRIPT / REACT / IONIC / FLUTTER / ANGULAR / ARDUINO / RaspberryPi / KIOSK /
  채팅솔루션 : express / nestjs<br>
  그외 : Window / linux / Ubuntu / AWS / SSL / 물리서버 / 서버세팅 등 유지보수<br>
  ==============================================================================
- 
+ </div>
 
 
 <h2><a id="user-content-회사-경력" class="anchor" aria-hidden="true" href="#회사-경력"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>회사 경력</h2>
