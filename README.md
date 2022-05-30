@@ -65,10 +65,8 @@
 <ul>
  <li>android 하이브리드앱 </li>
  <li>jsp 개발 </li>
-<li> 
-   <img width="100%" src="https://user-images.githubusercontent.com/35400023/171013906-70f31b12-dc29-423c-ade8-e2ff2f16a6f4.PNG"></img>
-</li>
 </ul>
+<img width="100%" src="https://user-images.githubusercontent.com/35400023/171013906-70f31b12-dc29-423c-ade8-e2ff2f16a6f4.PNG"></img>
 
 <li> 경동나비엔 보일러 한국향->중국향 컨버팅작업 및 로컬라이징작업, 패킷데이터 수정
      https://play.google.com/store/apps/details?id=com.kd.SmartTok
