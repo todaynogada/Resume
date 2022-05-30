@@ -17,9 +17,11 @@
 기술이력 
 ===========================================================================
 <b>개발 • 퍼블리싱 • 유지보수 • 고도화작업 • 상주 • 재택</b><br>
+ 
 ※ 사용 가능 언어
 ASP / PHP / JSP / NODE / ANDROID / IPHONE / VUEJS / JUQERY / JAVASCRIPT / <br>
 TYPESCRIPT / REACT / IONIC / FLUTTER / ANGULAR / ARDUINO / RaspberryPi / KIOSK / IOT<br>
+ 
 ※ 퍼블리싱 
 bootstrap4 / bootstrap5 / css / sass / 반응형 / 비반응형 / 이벤트페이지 / 인트로페이지<br>
 
