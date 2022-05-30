@@ -194,9 +194,6 @@ http://www.dayouandu.com
 
 </ul>
  
- <script>
- console.log('test')
- </script>
  
  
  
