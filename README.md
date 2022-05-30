@@ -97,13 +97,6 @@
 </ul>
 <img width="100%" src="https://user-images.githubusercontent.com/35400023/171025753-3807eae7-681f-4305-bef8-6550e4f60d9a.PNG"></img>
 
-<p><strong>스카이베이 호텔관리시스템 홈페이지 유지보수 개발</strong></p>
-<ul>
-<li>android native 개발 </li>
-</ul>
-<img width="100%" src="https://user-images.githubusercontent.com/35400023/171025753-3807eae7-681f-4305-bef8-6550e4f60d9a.PNG"></img>
-
-
 <p><strong>스카이베이 호텔관리시스템 홈페이지 개발 </strong></p>
 <ul>
 <li>http://www.gtskybay.com/web/main/</li>
