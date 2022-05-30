@@ -64,6 +64,7 @@
 <p><strong>Totwo</strong></p>
 <ul>
  <li>android 하이브리드앱 </li>
+ <li>jsp 개발 </li>
 <li> 
    <img width="100%" src="https://user-images.githubusercontent.com/35400023/171013906-70f31b12-dc29-423c-ade8-e2ff2f16a6f4.PNG"></img>
 </li>
