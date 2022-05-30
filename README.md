@@ -59,14 +59,15 @@
 <li>그누보드 php 개발</li>
 </ul>
 
-![투투](https://user-images.githubusercontent.com/35400023/171013906-70f31b12-dc29-423c-ade8-e2ff2f16a6f4.PNG)
+ 
 
-<p><strong>익스모바일</strong></p>
+<p><strong>Totwo</strong></p>
 <ul>
-<li>  totwo 유지보수 및 기타 프론트 개발 (프론트 : jsp)
-      https://play.google.com/store/apps/details?id=kr.co.totwo
-  <img width="100%" src="https://user-images.githubusercontent.com/35400023/58617357-df38fe80-82fa-11e9-9e9a-7b811fc5a72d.PNG"></img>
+ <li>android 하이브리드앱 </li>
+<li> 
+   <img width="100%" src="https://user-images.githubusercontent.com/35400023/171013906-70f31b12-dc29-423c-ade8-e2ff2f16a6f4.PNG"></img>
 </li>
+</ul>
 
 <li> 경동나비엔 보일러 한국향->중국향 컨버팅작업 및 로컬라이징작업, 패킷데이터 수정
      https://play.google.com/store/apps/details?id=com.kd.SmartTok
