@@ -228,6 +228,13 @@
 <li>godomall_pro(php) 퍼블리싱 및 백엔드(controller) 개발 </li>
 </ul>
  
+<p><strong>matterport 3d 개발</strong></p>
+<ul>
+<li>https://matterport.com/ko</li>
+<li>메타포트 3d 모델링 개발</li>
+</ul>
+<img width="100%" src="https://user-images.githubusercontent.com/35400023/171043877-4a5aaa94-993c-46c0-a9bd-bb7e3736a4a9.gif"></img>
+
 <p><strong>소개팅어플</strong></p>
 <ul>
 <li>flutter native 채팅어플 개발</li>
