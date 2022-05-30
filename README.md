@@ -1,3 +1,7 @@
+<style>
+ .temp{margin:50px;}
+ </style>
+ 
 <h1>이력서</h1>
 <h2>소개</h2>
 안녕하세요. 에오스모바일 개인업체입니다. 성심성의껏 책임지고 도와드리겠습니다.<br>
@@ -49,7 +53,7 @@
 <li>php 개발 및 퍼블리싱</li>
 </ul>
 
-<p><strong>아미나</strong></p>
+<p class="temp"><strong>아미나</strong></p>
 <ul>
 <li>홈페이지(PHP,그누보드)</li>
 <li>그누보드 php 개발</li>
