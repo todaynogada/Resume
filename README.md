@@ -18,7 +18,7 @@
 ===========================================================================
 <b>개발 • 퍼블리싱 • 유지보수 • 고도화작업 • 상주 • 재택</b><br>
  
-※ 사용 가능 언어
+※ 사용 가능 언어<br> 
 ASP / PHP / JSP / NODE / ANDROID / IPHONE / VUEJS / JUQERY / JAVASCRIPT / <br>
 TYPESCRIPT / REACT / IONIC / FLUTTER / ANGULAR / ARDUINO / RaspberryPi / KIOSK / IOT<br>
  
