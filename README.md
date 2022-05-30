@@ -214,7 +214,7 @@
 <p><strong>대유위니아 - 사내웹진 유지보수 및 개발</strong></p>
 <ul>
 <li>http://www.dayouandu.com</li>
-<li>window server 구축 </li>
+<li>window server-IIS 및 MSSQL 구축 및 이전작업 (ASP)</li>
 <li>게임개발</li>
 <li>bootstrap5 개발</li>
 <li>설문조사 기능 개발</li>
