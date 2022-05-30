@@ -44,11 +44,11 @@
 <div>
  <ul>
   <li>
-  <div>1</div>
-   <div>2</div>
-   <div>3</div>
-   <div>4</div>
-   <div>5</div>
+  <div style='display:lnline-block'>1</div>
+   <div style='display:lnline-block'>2</div>
+   <div style='display:lnline-block'>3</div>
+   <div style='display:lnline-block'>4</div>
+   <div style='display:lnline-block'>5</div>
   </li>
   <li></li>
   <li></li>
