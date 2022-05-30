@@ -91,7 +91,7 @@
 </ul>
 <img width="100%" src="https://user-images.githubusercontent.com/35400023/171025822-e75405e8-a11c-482b-b078-99f1a58cd81c.png"></img>
 
-<p><strong>i-note</strong></p>
+<p><strong>i-note - 메모장 관리</strong></p>
 <ul>
 <li>android native 개발 </li>
 </ul>
@@ -107,36 +107,39 @@
 <p><strong>스카이베이 호텔관리시스템 홈페이지 개발 </strong></p>
 <ul>
 <li>http://www.gtskybay.com/web/main/</li>
-
 </ul>
 
+<p><strong>DwMobile</strong></p>
 <ul>
-  <li>   - DwMobile 안드로이드 cctv 네이티브개발 유지보수 개발
-https://play.google.com/store/apps/details?id=mobile.android.dw.cc.tv.dwmobileandroid.lite
-</li>
-  
-<li>  그누보드를 활용한 게시판푸쉬어플
-     https://play.google.com/store/apps/details?id=todaynogada.com.tdn
-</li>
-  <li>  - 목재 자동 견적 프로그램
-http://todaynogada.cafe24.com/wood/cut_index_pc.php?wood_name=레드오크목봉&wood_type=1&
-</li>
-<li>  
-  -  헬스홈페이지 개발- http://fmfmfmfm.cafe24.com/1_1.php?device=pc
-</li>
-<li> -  자동 제품 견적 프로그램- http://dlikorea.com/shopinfo/quotation.html
-</li>
- <li>  반응형 홈페이지 개발- http://todaynogada.cafe24.com/work_list/etc/index.html
-</li>
-<li> - 메모장 앱 개발- https://play.google.com/store/apps/details?id=com.project.iNoteMobile
-</li>
- <li>
-  -화랑번역 홈페이지 유지보수 http://www.globalhwarang.com
- </li>
- <li>
-  -사단법인 한국신장장애인울산협회 플래시메뉴 수정 http://www.kidneyus.or.kr/
- <img src="https://user-images.githubusercontent.com/35400023/74901775-3c279800-53e7-11ea-9330-fea1cdc96414.PNG"/>
- </li>
+<li>android native 개발 cctv 연동</li>
+</ul>
+<img width="100%" src="https://user-images.githubusercontent.com/35400023/171027313-d8bd7bfd-60b5-4042-b723-e00e4cbd43e7.PNG"></img>
+
+<p><strong>헬스홈페이지 개발</strong></p>
+<ul>
+<li>http://fmfmfmfm.cafe24.com/1_1.php?device=pc</li>
+</ul>
+
+<p><strong>자동 계산 견적 프로그램</strong></p>
+<ul>
+<li>http://dlikorea.com/shopinfo/quotation.html</li>
+</ul>
+<img width="100%" src="https://user-images.githubusercontent.com/35400023/171028307-d3954f45-c071-4d17-be54-8105ae081456.PNG"></img>
+ 
+<p><strong>화랑번역 홈페이지 개발 및 유지보수</strong></p>
+<ul>
+<li>http://www.globalhwarang.com</li>
+</ul>
+
+<p><strong>한국신장장애인울산협회</strong></p>
+<ul>
+<li>http://www.kidneyus.or.kr/</li>
+<li>adobe flash 수정 후 html build</li>
+</ul>
+<img width="100%" src="https://user-images.githubusercontent.com/35400023/74901775-3c279800-53e7-11ea-9330-fea1cdc96414.PNG"></img>
+
+
+
  <li>
  - 서프라이스 쇼핑몰 모바일 + 안드로이드 전반적으로 업무 개발 기능+디자인
  <img src="https://user-images.githubusercontent.com/35400023/79744231-f6347500-8340-11ea-951f-28693a45cbd4.PNG"/>
