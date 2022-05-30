@@ -53,7 +53,7 @@
 <li>php 개발 및 퍼블리싱</li>
 </ul>
 
-<p class="temp"><strong>아미나</strong></p>
+<p class='temp'><strong>아미나</strong></p>
 <ul>
 <li>홈페이지(PHP,그누보드)</li>
 <li>그누보드 php 개발</li>
