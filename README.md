@@ -66,14 +66,21 @@
 <p><strong>경동나비엔 - IOT 사물인터넷 보일러 APP 개발</strong></p>
 <ul>
 <li>android native app 개발 </li>
-<li>iot 사물인터넷과 패킷 연동작업 </li>
+<li>iot 보일러 내부 모듈 패킷 연동작업 </li>
 </ul>
 <img width="100%" src="https://user-images.githubusercontent.com/35400023/171014735-7f5f21f5-b3d3-4ce5-aa3c-62cbf08ef1cf.PNG"></img>
+
+<p><strong>경동나비엔 - IOT 사물인터넷 스마트 도어벨 APP 개발</strong></p>
+<ul>
+<li>android native app 개발 </li>
+<li>사물인터넷  </li>
+</ul>
+<img width="100%" src="https://user-images.githubusercontent.com/35400023/171024436-18079bb7-3a98-4684-b090-79d75a715422.PNG"></img>
+
 
 <p><strong>Boodi - 아이가 그린 그림의 색상을 이용하여 아이들의 심리를 분석 파악 하고 관련 피드백을 들을수 있습니다 </strong></p>
 <ul>
 <li>android native app 개발 </li>
-<li>iot 사물인터넷과 패킷 연동작업 </li>
 </ul>
 <img width="100%" src="https://user-images.githubusercontent.com/35400023/171015870-9e3da83c-6acc-4c2c-88d4-3a9b1bdd916f.PNG"></img>
 
