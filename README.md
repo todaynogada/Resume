@@ -26,17 +26,17 @@
 <p>※ 퍼블리싱</p>
 <p>bootstrap4 / bootstrap5 / css / sass / 반응형 / 비반응형 / 이벤트페이지 / 인트로페이지</p>
 
-※ 솔루션 
-cafe24 / godoMall(+pro) / imweb / cgimall / gnuboard / zeoboard /<br>
+<p>※ 솔루션</p>
+<p>cafe24 / godoMall(+pro) / imweb / cgimall / gnuboard / zeoboard /</p>
  
-※ 데이터베이스  
-mssql / oracle / mysql / postgresql / 쿼리최적화 및 속도개선영상<br>
+<p>※ 데이터베이스</p>
+<p>mssql / oracle / mysql / postgresql / 쿼리최적화 및 속도개선영상</p>
  
-※ 솔루션 : red5pro / wowza / webrtc / hls / rtmp<br>
+<p>※ 솔루션 : red5pro / wowza / webrtc / hls / rtmp</p>
  
-※ 채팅솔루션 : express / nestjs<br>
+<p>※ 채팅솔루션 : express / nestjs</p>
  
-※ 기타 : Window / linux / ubuntu / aws /ssl / 물리서버 / 서버세팅 등 유지보수<br>
+<p>※ 기타 : Window / linux / ubuntu / aws /ssl / 물리서버 / 서버세팅 등 유지보수</p>
  
  ===========================================================================
  </div>
