@@ -220,4 +220,16 @@
 <li>설문조사 기능 개발</li>
 </ul>
 <img width="100%" src="https://user-images.githubusercontent.com/35400023/171042258-de5feaa5-bc2d-49dd-92f2-db27495ee08c.PNG"></img>
+
+<p><strong>보기왕강프로</strong></p>
+<ul>
+<li>http://m.cherry85922.godomall.com/</li>
+<li>godomall_pro(php) 퍼블리싱 및 백엔드(controller) 개발 </li>
+</ul>
  
+<p><strong>소개팅어플</strong></p>
+<ul>
+<li>flutter native 채팅어플 개발</li>
+</ul>
+
+
