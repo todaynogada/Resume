@@ -42,14 +42,6 @@
 </div>
 
 <h2><a id="user-content-경력" class="anchor" aria-hidden="true" href="#경력"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>프로젝트 개발 경력</h2>
-
-
-<details>
-  <summary>The title of the image group</summary><details>
-  <img src="https://user-images.githubusercontent.com/35400023/58617357-df38fe80-82fa-11e9-9e9a-7b811fc5a72d.PNG" name="image-name">
-  <img src="https://user-images.githubusercontent.com/35400023/58617357-df38fe80-82fa-11e9-9e9a-7b811fc5a72d.PNG" name="image-name">
-  <img src="https://user-images.githubusercontent.com/35400023/58617357-df38fe80-82fa-11e9-9e9a-7b811fc5a72d.PNG" name="image-name">
-</details>
  
 <p><strong>홍일광고공사</strong></p>
 <ul>
