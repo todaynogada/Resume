@@ -43,17 +43,17 @@
 
 <h2><a id="user-content-경력" class="anchor" aria-hidden="true" href="#회사-경력"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>회사 경력</h2>
 
-<p><strong>홍일광고공사 2015.09~ 2016.06</strong></p>
-<ul>
+<p><strong>홍일광고공사</strong></p>
+<p>작업영역</p>
 <li>국회의원 친반통일당 명함,포스터,공보물,벽보물및 홈페이지제작</li>
-</ul>
 
-<p><strong>아미나 2017.8 ~ 2018.05</strong></p>
+
+<p><strong>아미나</strong></p>
 <ul>
 <li>홈페이지(PHP,그누보드) 보조개발</li>
 </ul>
 
-<p><strong>익스모바일 2018.07 ~ 2019.03</strong></p>
+<p><strong>익스모바일</strong></p>
 <ul>
 <li>  totwo 유지보수 및 기타 프론트 개발 (프론트 : jsp)
       https://play.google.com/store/apps/details?id=kr.co.totwo
