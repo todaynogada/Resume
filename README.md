@@ -85,14 +85,8 @@
 <img width="100%" src="https://user-images.githubusercontent.com/35400023/171015870-9e3da83c-6acc-4c2c-88d4-3a9b1bdd916f.PNG"></img>
 
  
-
-<li> 영국향 서모스탯 초기개발단계 안드로이드 레이아웃 작업 후 인수인계[IOT개발관련]</li>
-<li> Boodi 상품사진이용 색상별 인터렉션 심리 어플리케이션 (사진 촬영을 하여 색깔에 따라 sqlite를 이용해 상황에 맞게 랜덤질문을 보여주는 방식)
-     https://play.google.com/store/apps/details?id=kr.co.boodi
-  <img src="https://user-images.githubusercontent.com/35400023/58617563-671f0880-82fb-11e9-8e79-92e5cd836473.PNG"></img>
-</li>
 <li> ipzza 쇼핑몰 jsp 프론트 개발 및 하이브리드앱 개발   
-<img src="https://user-images.githubusercontent.com/35400023/58620080-2c1fd380-8301-11e9-9bb2-7a23dd5ed418.PNG"></img>
+<img width="100%" src="https://user-images.githubusercontent.com/35400023/58620080-2c1fd380-8301-11e9-9bb2-7a23dd5ed418.PNG"></img>
 </li>
  <li> 아이노트모바일 안드로이드 어플 개발
 <img src="https://user-images.githubusercontent.com/35400023/71323493-3e6c9380-2517-11ea-8d9c-1093f600d244.PNG"></img>
