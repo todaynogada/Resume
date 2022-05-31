@@ -15,7 +15,7 @@
 개발경력 : 7년
 <br><br>
 <div>
-sns운영
+<h1>sns운영</h1>
 <p>인스타그램 https://www.instagram.com/todaynogada/</p>
 </div>
 <div>
