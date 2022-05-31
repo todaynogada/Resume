@@ -14,8 +14,8 @@
 미팅여부 : 가능<br>
 개발경력 : 7년
 
-sns운영사이트
-인스타그램 https://www.instagram.com/todaynogada/
+sns운영
+<p>인스타그램 https://www.instagram.com/todaynogada/</p>
 
 <div>
 ===========================================================================
