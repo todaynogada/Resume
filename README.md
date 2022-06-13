@@ -16,7 +16,7 @@
 <br><br>
 <div>
 <h1>sns운영</h1>
-<p>인스타그램 https://www.instagram.com/todaynogada/</p>
+<p>인스타그램 https://www.instagram.com/sw_aosmobile/</p>
  <p>네이버블로그 </p>
  <p>유투브 </p>
  <p>페이스북 </p>
