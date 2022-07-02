@@ -17,9 +17,9 @@
 <div>
 <h1>sns운영</h1>
 <p>인스타그램 https://www.instagram.com/sw_aosmobile/</p>
- <p>네이버블로그 </p>
+ <p>네이버블로그 https://blog.naver.com/aosmobile</p>
  <p>유투브 </p>
- <p>페이스북 </p>
+ <p>페이스북 https://www.facebook.com/aosmobile</p>
 </div>
 <div>
 ===========================================================================
