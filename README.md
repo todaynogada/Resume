@@ -255,7 +255,7 @@
 
 <p><strong>스카이라이프</strong></p>
 <ul>
-<li>[http://211.110.140.200:10000](https://skylifedirect.co.kr/)</li>
+<li>https://skylifedirect.co.kr</li>
 <li>그누보드 개발</li>
 </ul>
 
