@@ -247,4 +247,10 @@
 <li>flutter native 채팅어플 개발</li>
 </ul>
 
+<p><strong>체인지:폰-핸드폰판매플랫폼</strong></p>
+<ul>
+<li>http://211.110.140.200:10000</li>
+<li>jsp/mssql/스프링 개발중</li>
+</ul>
+
 
