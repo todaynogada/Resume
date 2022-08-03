@@ -256,6 +256,5 @@
 <p><strong>스카이라이프</strong></p>
 <ul>
 <li>https://skylifedirect.co.kr</li>
-<li>그누보드 개발</li>
 </ul>
 
