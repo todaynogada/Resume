@@ -258,3 +258,7 @@
 <li>https://skylifedirect.co.kr</li>
 </ul>
 
+<p><strong>배화여자대학교</strong></p>
+<ul>
+<li>http://www.baewha.ac.kr/mbs/kr/index.jsp</li>
+</ul>
