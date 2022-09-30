@@ -192,6 +192,7 @@
 <p><strong>국방부 프로젝트</strong></p>
 <ul>
 <li>jsp 프론트/백엔드 개발 </li>
+<li> https://www.dssc.mil.kr/sites/dssckr/index.do</li>
 </ul>
 
 <p><strong>conpas</strong></p>
@@ -249,7 +250,7 @@
 
 <p><strong>체인지:폰-핸드폰판매플랫폼</strong></p>
 <ul>
-<li>http://211.110.140.200:10000</li>
+<li>https://changephone.co.kr</li>
 <li>jsp/mssql/스프링 개발중</li>
 </ul>
 
