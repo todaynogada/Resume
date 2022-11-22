@@ -264,7 +264,7 @@
 
 <p><strong>고려대학교 세종학술정보원</strong></p>
 <ul>
-<li> https://libsdev.korea.ac.kr/</li>
+<li> https://libs.korea.ac.kr/</li>
 </ul>
 
 <p><strong>ncu</strong></p>
