@@ -216,14 +216,6 @@
 <li>예약시스템 개발 </li>
 </ul>
 
-<p><strong>onispiano</strong></p>
-<ul>
-<li>https://play.google.com/store/apps/details?id=sky.onispiano</li>
-<li>파이썬 장고 서버 개발 및 유지보수 </li>
-<li>아이오닉 프레임워크 하이브리드앱 개발 </li>
-<li>카카오페이/나이스페이 개발 </li>
-<li>예약시스템 개발 </li>
-</ul>
 <img width="100%" src="https://user-images.githubusercontent.com/35400023/171042079-2d6be2c4-bdf1-4f1b-bfe7-8acc870973dc.PNG"></img>
 
 <p><strong>대유위니아 - 사내웹진 유지보수 및 개발</strong></p>
