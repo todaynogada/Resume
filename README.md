@@ -285,15 +285,7 @@
 <li>http://www.ncf.or.kr/</li>
 </ul>
 
-<p><strong>ncf</strong></p>
-<ul>
-<li>http://www.ncf.or.kr/</li>
-</ul>
 
-<p><strong>고려대학교 세종학술정보원</strong></p>
-<ul>
-<li>https://libs.korea.ac.kr/</li>
-</ul>
 
 <p><strong>안드로이드 + 아두이노 esp 와이파이/블루투스 무선 연동 </strong></p>
 <ul>
