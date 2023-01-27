@@ -12,7 +12,7 @@
 운영 사이트 : https://aosmobile.co.kr<br>
 세금계산서 발행여부 : 가능<br>
 미팅여부 : 가능<br>
-개발경력 : 7년
+개발경력 : 8년
 <br><br>
 <div>
 <h1>sns운영</h1>
@@ -282,6 +282,16 @@
 <p><strong>안드로이드 + 아두이노 esp 와이파이/블루투스 무선 연동 </strong></p>
 <ul>
 <li>https://ko.aliexpress.com/item/4001243561686.html?pdp_npi=2%40dis%21KRW%21%E2%82%A9%2016%2C941%21%E2%82%A9%209%2C660%21%21%21%21%21%402101d1b816678719192733055ec5be%2110000015439501073%21btf&_t=pvid%3A87488dab-15a3-4a41-a595-446d3a201d7e&afTraceInfo=4001243561686__pc__pcBridgePPC__xxxxxx__1667871919&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2kor</li>
+</ul>
+ 
+ <p><strong>서울365소아청소년과의원</strong></p>
+<ul>
+<li>http://www.seoul365ped.co.kr</li>
+</ul>
+ 
+  <p><strong>병원관리시스템 (web + app)</strong></p>
+<ul>
+<li>https://withsullivan.com/</li>
 </ul>
  
  
