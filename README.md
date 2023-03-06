@@ -296,3 +296,11 @@
  
 <p><strong>LG 에너지솔루션 인트라넷 홈페이지 유지보수</strong></p>
  
+
+  <p><strong>안동시 버스전광판 개발</strong></p>
+<ul>
+<li><img width="100%" src="https://user-images.githubusercontent.com/35400023/223051059-d39d66fc-df48-4f23-bcef-7d1766b4d4d1.jpg"></img>
+</li>
+<li><video src="https://user-images.githubusercontent.com/35400023/223051124-c9ba7397-5fd1-4e82-ada2-9e0c587dc600.mp4" /></li>
+</ul>
+ 
