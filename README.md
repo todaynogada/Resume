@@ -300,25 +300,23 @@
   <p><strong>안동시 버스전광판 개발</strong></p>
 <ul>
 <li>
- <img width="100%" src="https://user-images.githubusercontent.com/35400023/228141069-80b4c795-38ac-49bc-9ca9-b9a38b12c855.png"></img>
+ <img width="100%" src="https://user-images.githubusercontent.com/35400023/231611958-8e4f9071-c9bd-4b2c-9133-1a849dd35aee.png"></img>
 </li>
 <li>
- <img width="100%" src="https://user-images.githubusercontent.com/35400023/228141100-e4b5bcc5-966a-4857-9977-383241b4b0f7.png"></img>
+ <img width="100%" src="https://user-images.githubusercontent.com/35400023/231611962-4c62c651-2e31-4a20-b6a9-9b4cff35aa23.png"></img>
 </li>
 <li>
- <img width="100%" src="https://user-images.githubusercontent.com/35400023/228141110-2006da97-bc11-4c14-82f7-12b9383b06ee.png"></img>
+ <img width="100%" src="https://user-images.githubusercontent.com/35400023/231611964-94f49d89-680a-4079-aca1-1a57d76eec29.png"></img>
 </li>
 <li>
- <img width="100%" src="https://user-images.githubusercontent.com/35400023/228141140-8a93b3b7-e06f-4695-a6d0-7a834df04496.png"></img>
+ <img width="100%" src="https://user-images.githubusercontent.com/35400023/231611967-0df3653b-559a-473a-86b0-1bc098860f70.png"></img>
 </li>
 <li>
- <img width="100%" src="https://user-images.githubusercontent.com/35400023/228141169-f8a4e139-4ec8-484f-8a30-e33ffd64a2aa.png"></img>
+ <img width="100%" src="https://user-images.githubusercontent.com/35400023/231611970-71a710a9-2b0b-4855-ae4a-4f862a279d70.png"></img>
 </li>
 <li>
- <img width="100%" src="https://user-images.githubusercontent.com/35400023/228141189-523ba0fd-a3af-4bf4-883a-696075ed6ffe.png"></img>
+ <img width="100%" src="https://user-images.githubusercontent.com/35400023/231611975-7aa9a186-ef4c-4ea8-bd8b-0e9cb526f7a0.png"></img>
 </li>
- 
-
 <li><video src="https://user-images.githubusercontent.com/35400023/223051124-c9ba7397-5fd1-4e82-ada2-9e0c587dc600.mp4" /></li>
 </ul>
  
