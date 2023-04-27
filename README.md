@@ -317,6 +317,6 @@
 <li>
  <img width="100%" src="https://user-images.githubusercontent.com/35400023/231611975-7aa9a186-ef4c-4ea8-bd8b-0e9cb526f7a0.png"></img>
 </li>
-<li><video src="https://user-images.githubusercontent.com/35400023/223051124-c9ba7397-5fd1-4e82-ada2-9e0c587dc600.mp4" /></li>
+<li><video src="https://youtu.be/6OYyZsvMUVM" /></li>
 </ul>
  
