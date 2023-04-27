@@ -317,6 +317,6 @@
 <li>
  <img width="100%" src="https://user-images.githubusercontent.com/35400023/231611975-7aa9a186-ef4c-4ea8-bd8b-0e9cb526f7a0.png"></img>
 </li>
-<li>[![Video Label](http://img.youtube.com/vi/6OYyZsvMUVM/0.jpg)](https://youtu.be/6OYyZsvMUVM)</li>
+<li>[![Video Label]('http://img.youtube.com/vi/6OYyZsvMUVM/0.jpg')]('https://youtu.be/6OYyZsvMUVM')</li>
 </ul>
  
