@@ -317,6 +317,6 @@
 <li>
  <img width="100%" src="https://user-images.githubusercontent.com/35400023/231611975-7aa9a186-ef4c-4ea8-bd8b-0e9cb526f7a0.png"></img>
 </li>
-<li><iframe width="956" height="538" src="https://youtu.be/6OYyZsvMUVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+<li>[![Video Label](https://youtu.be/6OYyZsvMUVM)</li>
 </ul>
  
