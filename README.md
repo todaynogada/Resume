@@ -1,26 +1,13 @@
 <h1>이력서</h1>
 <h2>소개</h2>
-안녕하세요. 에오스모바일 개인업체입니다. 성심성의껏 책임지고 도와드리겠습니다.<br>
-업체명 : 에오스모바일(aosmobile)<br>
-대표자 : 김승연<br>
-연락처 : 010-8260-8267<br>
-카카오톡 : https://pf.kakao.com/_Kmxfxds<br>
-네이트온 : todaynogada@nate.com<br>
-텔레그램 : https://t.me/todaynogada<br>
+이름 : 김승연<br>
 이메일 : todaynogada@gmail.com<br>
-모바일팩스 : 0504-0808-9174<br>
-운영 사이트 : https://aosmobile.co.kr<br>
 세금계산서 발행여부 : 가능<br>
 미팅여부 : 가능<br>
 개발경력 : 8년
 <br><br>
-<div>
-<h1>sns운영</h1>
-<p>인스타그램 https://www.instagram.com/sw_aosmobile/</p>
- <p>네이버블로그 https://blog.naver.com/aosmobile</p>
- <p>유투브 </p>
- <p>페이스북 https://www.facebook.com/aosmobile</p>
-</div>
+
+
 <div>
 ===========================================================================
  
